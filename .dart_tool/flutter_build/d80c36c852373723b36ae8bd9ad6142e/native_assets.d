@@ -1,0 +1,1 @@
+ C:\\Users\\alizz\\Downloads\\my_webview_flutter-master\\cekpalsu\\.dart_tool\\flutter_build\\d80c36c852373723b36ae8bd9ad6142e\\native_assets.yaml: 
